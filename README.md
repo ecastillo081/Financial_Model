@@ -1,4 +1,4 @@
-# Financial Model (Synthetic Startup)
+# Financial Model v1.0 (Startup)
 
 This repository contains a traditional **3-statement financial model** built in Excel and exported to PDF for review.  
 All figures are **synthetic** and represent a fictional startup — created for portfolio and demonstration purposes only.
