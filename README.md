@@ -25,6 +25,18 @@ financial-model-project/
 └─ README.md                    # Project overview
 ```
 
+## Future Enhancements
+
+Planned updates and improvements for future versions of this model include:
+
+- **Prepaid User Discounts** – add % discount logic for prepaid contracts.  
+- **Credit vs. Non-Credit Users** – bifurcate revenue and cost assumptions by payment terms.  
+- **Inflation Impact** – incorporate inflation factors into expense and revenue growth.  
+- **Net Revenue Retention (NRR)** – track expansion, contraction, and churn to show net retention.  
+- **Gross Revenue Retention (GRR)** – highlight customer stickiness and gross retention trends.  
+- **Take Rate** – introduce take rate assumptions for marketplace/transaction-driven revenue.  
+- **Executive Dashboard** – build a high-level KPI dashboard for quick insights and presentation.
+
 ## Disclaimer
 All data in this model is **synthetic**.
 
